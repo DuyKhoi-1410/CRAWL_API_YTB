@@ -1,0 +1,15 @@
+.git
+.gitignore
+.dockerignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+colab_output/
+state/
+.env
+venv/
+.venv/
+env/
+README.md
